@@ -1,0 +1,26 @@
+{
+  "name": "random-names",
+  "version": "1.0.0",
+  "description": "Get random names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praveen8529/random-names.git"
+  },
+  "keywords": [
+    "random",
+    "names"
+  ],
+  "author": "praveen lingegowda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Praveen8529/random-names/issues"
+  },
+  "homepage": "https://github.com/Praveen8529/random-names#readme",
+  "dependencies": {
+    "unique-random-array": "3.0.0"
+  }
+}
